@@ -4,3 +4,9 @@
 * Username Menu: **brfree**
 * Password Menu: **11**
 * Tường Lửa [Tại đây](https://www.mediafire.com/file/9x2flh7mmizi04b/ByPass_Antiban_Rethink_Update_New_V5.7z/file?dkey=u6e6g1xbpwq&r=1246)
+
+# 3rd
+- kclicl'r [Tại đây](https://github.com/Nain57/Smart-AutoClicker/releases/download/3.4.0-beta01/smartautoclicker-fDroid-release.apk)
+- file import kclick (yêu cầu có zarchiver) [Tại đây](https://zarchiver.en.divxland.org/download/0/)
+
+
