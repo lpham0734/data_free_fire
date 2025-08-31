@@ -7,6 +7,6 @@
 
 # 3rd
 - kclick'r [Tại đây](https://github.com/Nain57/Smart-AutoClicker/releases/download/3.4.0-beta01/smartautoclicker-fDroid-release.apk)
-- file import kclick (yêu cầu có zarchiver) [Tại đây](https://www.mediafire.com/file/bk2ju56lxpwr7ok/p.zip/file)
+- file import kclick'r [Tại đây](https://github.com/lpham0734/ff/raw/refs/heads/main/Setting_Kclick_CowPy.zip)
 
-
+* **Yêu cầu phải tải Zarchiver thì mới import file vào kclick'r được!**
