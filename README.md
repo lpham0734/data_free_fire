@@ -6,7 +6,7 @@
 * Tường Lửa [Tại đây](https://www.mediafire.com/file/9x2flh7mmizi04b/ByPass_Antiban_Rethink_Update_New_V5.7z/file?dkey=u6e6g1xbpwq&r=1246)
 
 # 3rd
-- kclick'r [Tại đây](https://github.com/Nain57/Smart-AutoClicker/releases/download/3.4.0-beta01/smartautoclicker-fDroid-release.apk)
+- Kclick'r apk [Tại đây](https://github.com/Nain57/Smart-AutoClicker/releases/download/3.4.0-beta01/smartautoclicker-fDroid-release.apk)
 - file import kclick'r [Tại đây](https://github.com/lpham0734/ff/raw/refs/heads/main/Setting_Kclick_CowPy.zip)
 - Setting UID Free Fire [Tại đây]
 * **Yêu cầu phải tải Zarchiver thì mới import file vào kclick'r được!**
