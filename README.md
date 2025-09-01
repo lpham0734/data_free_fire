@@ -1,4 +1,4 @@
-# Hack Free Fire Root
+# Hack Free Fire Root (Beta)
 * Free Fire Max [Tại đây](https://www.mediafire.com/file/mzoq1559nvqg7j0/Free_Fire_Max_2.115.xapk/file?dkey=bnow5d22iob&r=985)
 * Menu Hack [Tại đây](https://www.mediafire.com/file/o4ngzdbibvakn6l/%25F0%259D%2590%2581%25CA%2580_%25F0%259D%2590%258C%25E1%25B4%258F%25E1%25B4%2585%25E1%25B4%2587_%25F0%259D%2590%2591%25E1%25B4%258F%25E1%25B4%258F%25E1%25B4%259B_%25F0%259D%2590%2588%25C9%25B4%25E1%25B4%258A%25E1%25B4%2587%25E1%25B4%2584%25E1%25B4%259B%25E1%25B4%258F%25CA%2580.apk/file?dkey=nzyrpwxozgd&r=545)
 * Username Menu: **brfree**
@@ -8,5 +8,5 @@
 # 3rd
 - kclick'r [Tại đây](https://github.com/Nain57/Smart-AutoClicker/releases/download/3.4.0-beta01/smartautoclicker-fDroid-release.apk)
 - file import kclick'r [Tại đây](https://github.com/lpham0734/ff/raw/refs/heads/main/Setting_Kclick_CowPy.zip)
-
+- Setting UID Free Fire [Tại đây]
 * **Yêu cầu phải tải Zarchiver thì mới import file vào kclick'r được!**
