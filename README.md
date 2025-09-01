@@ -7,7 +7,7 @@
 
 # 3rd
 - **Kclick'r** [Tại đây](https://github.com/Nain57/Smart-AutoClicker/releases/download/3.4.0-beta01/smartautoclicker-fDroid-release.apk) (Phù hợp UgPhone, Redfinger, VSPhone Cloud, Vmos Cloud...)
-- file import kclick'r (New) [Tại đây](https://github.com/lpham0734/ff/raw/refs/heads/main/Setting_Kclick_CowPy.zip)
+- file import kclick'r (New) [Tại đây](https://github.com/lpham0734/data_free_fire/raw/refs/heads/main/treo%20vip.zip)
 - Setting UID Free Fire: **#FFHUDT6O3jCpcsptPo7eP**
 - **Để tránh bị afk từ free fire thì nên dùng setting uid phía trên kèm với file kclick là ổn!**
 * **Yêu cầu phải tải Zarchiver thì mới import file vào kclick'r được!**
