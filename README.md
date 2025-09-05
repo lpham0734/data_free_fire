@@ -27,6 +27,6 @@
 - file import kclick'r (New) [Tại đây](https://github.com/lpham0734/data_free_fire/raw/refs/heads/main/treo%20vip.zip)
 - Link script phụ [Tại đây](https://www.mediafire.com/file/lk6fehxvo7a40sf/treo_vip.zip/file)
 - Setting UID Free Fire: **#FFHUDT6O3jK6BALtPo7eP**
-- Setting UID Free Fire 2: **#FFHUDT6O3jCpcsptPo7eP**
+- Setting UID Free Fire 2: **#FFHUDT6O3jK6BALtPo7eP**
 - **Để tránh bị afk từ free fire thì nên dùng setting uid phía trên kèm với file kclick là ổn!**
 * **Yêu cầu phải tải Zarchiver thì mới import file vào kclick'r được!**
