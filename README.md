@@ -30,3 +30,7 @@
 - Setting UID Free Fire 2: **#FFHUDT6O3jK6BALtPo7eP**
 - **Để tránh bị afk từ free fire thì nên dùng setting uid phía trên kèm với file kclick là ổn!**
 * **Yêu cầu phải tải Zarchiver thì mới import file vào kclick'r được!**
+- **#FFHUDT6O3jK6BALtPo7eP**
+
+
+
