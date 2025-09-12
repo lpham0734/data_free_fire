@@ -13,7 +13,7 @@
 - Setting UID Free Fire 2: **#FFHUDT6O3jK6BALtPo7eP**
 - **Để tránh bị afk từ free fire thì nên dùng setting uid phía trên kèm với file kclick là ổn!**
 * **Yêu cầu phải tải Zarchiver thì mới import file vào kclick'r được!**
-* Trên Android > 10 -> 15 thì Kclick'r bản apk đôi khi sẽ bị Android chặn khi cấp quyền click nên hãy sử dụng bản trên **Google Play** để tránh error (file script vẫn phù hợp với nó) bù lại thì bản apk trên github thì sẽ không có ads + xem ads để chạy tiếp  
+* Trên Android > 10 -> 15 thì Kclick'r bản apk đôi khi sẽ bị Android chặn khi cấp quyền click nên hãy sử dụng bản trên **Google Play** [Tại đây](https://play.google.com/store/apps/details?id=com.buzbuz.smartautoclicker) để tránh error (file script vẫn phù hợp với nó) bù lại thì bản apk trên github thì sẽ không có ads + xem ads để chạy tiếp  
 * 
 
 
