@@ -14,7 +14,6 @@
 - **Để tránh bị afk từ free fire thì nên dùng setting uid phía trên kèm với file kclick là ổn!**
 * **Đôi khi phải tải Zarchiver thì mới import file vào kclick'r được!**
 * Trên Android > 10 -> 15 thì Kclick'r bản apk đôi khi sẽ bị Android chặn khi cấp quyền click nên hãy sử dụng bản trên **Google Play** [Tại đây](https://play.google.com/store/apps/details?id=com.buzbuz.smartautoclicker) để tránh error (file script vẫn phù hợp với nó) bù lại thì bản apk trên github thì sẽ không có ads + xem ads để chạy tiếp  
-* **NgocRongOnline Mod DungPham Apk** [Tại đây](https://drive.usercontent.google.com/download?id=1UITiFtznvGASG6CJCNukFm-7a0piUHP_&export=download&authuser=0)
-
+* **NgocRongOnline Mod Unknown Apk** [Tại đây](https://drive.google.com/file/d/10bZj9aG9vWwh1xMVcNcBWkl6bRBMSPjg/view?usp=drivesdk)
 
 
