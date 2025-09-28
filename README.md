@@ -16,4 +16,4 @@
 * Trên Android > 10 -> 15 thì Kclick'r bản apk đôi khi sẽ bị Android chặn khi cấp quyền click nên hãy sử dụng bản trên **Google Play** [Tại đây](https://play.google.com/store/apps/details?id=com.buzbuz.smartautoclicker) để tránh error (file script vẫn phù hợp với nó) bù lại thì bản apk trên github thì sẽ không có ads + xem ads để chạy tiếp  
 * **NgocRongOnline Mod Unknown Apk** [Tại đây](https://drive.google.com/file/d/10bZj9aG9vWwh1xMVcNcBWkl6bRBMSPjg/view?usp=drivesdk)
 * **Ngọc Rồng Online Mod Kim Trọng rf Dũng Phạm:** [Tại đây](https://www.mediafire.com/file/jek1txdwc77yk22/MOD_Kim_Trong_246.apk/file)
-
+* **tranngocchinhekkf42207@gmail.com**
